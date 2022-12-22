@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 9 years of hands-on experience in **software development, product design, team management,** and **tech consultancy.**
+- Have 2 years of hands-on experience in **software development, product design, team management,** and **tech consultancy.**
 - Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[SELISE](https://selise.ch/)** as a **Solution Specialist**.
+- 🏢 Working at **[SELISE](https://selise.ch/)** as a ****.
 - 👨‍💻 Writing `C#` `SQL` `XAML` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-rifat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullahalmahi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
