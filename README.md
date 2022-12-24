@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
-- 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -65,24 +64,14 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
-    <img src="https://selise.ch/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
+    <img src="https://cdn.join.com/5eccffcd44e1840001261554/selise-logo-xl.png" height=50>
     </a> 
-  <a href="https://3ssoftltd.com">
-    <img src="https://www.sonicict.com/images/3s.png" height=50>
-  </a>
-  <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
-  </a>
-  <a href="https://www.celimited.com/">
-    <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=50>
-  </a>
+   <a href="https://wedevs.com/">
+    <img src="https://wedevs.com/img/wedevs/brand-assets/wedevs-logo/full-logos/weDevs-full-logo.jpg" height=50>
+    </a> 
 </p>
 
-#### What are my recent highlights?
-- [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
-- [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
-- [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-- [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
 
 <!--
 #### How to get in touch with me?
