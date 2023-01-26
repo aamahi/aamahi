@@ -23,13 +23,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
-- 🖥 **Front-end:** 
+- 🌐 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **🌐 Frameworks:** • [Angular](https://angular.io)
+  - **🔬 Libary:** • [NgRx](https://ngrx.io) • [RxJS](https://rxjs.dev)
+  <!--
   - **🔬 Frameworks:**  
     - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
     - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
     - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
-  - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
+-->
+  - **🗳 UI toolkits:** • [Tailwind](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
   - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
