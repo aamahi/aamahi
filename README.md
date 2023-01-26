@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Software Engineer**.
 - 👨‍💻 Writing `C#` `SQL` `Angular` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullahalmahi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+- Religiously follows Software Engineering best practices.
+<!-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullahalmahi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> --> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
+<!-- - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
+-->
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
