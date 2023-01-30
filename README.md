@@ -1,10 +1,11 @@
+<!--
 ### Hi there 👋!
 
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+--
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 2 years of hands-on experience in **software development**.
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 <!-- - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
--->
+--
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 <!--Github Stats-->
 
-
+<!--
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
