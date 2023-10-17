@@ -1,11 +1,11 @@
-<!--
+
 ### Hi there 👋!
 
-<!--
+
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
---
+
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 2 years of hands-on experience in **software development**.
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Software Engineer**.
 - 👨‍💻 Writing `C#` `SQL` `Angular` `HTML` `CSS` `JavaScript`.
 - Religiously follows Software Engineering best practices.
-<!-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullahalmahi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> --> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat) and the **.NET community**. 
-<!--
+ 🌍 Mostly active on <a href="https://www.linkedin.com/in/abdullahalmahi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> --> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat) and the **.NET community**. 
+
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-<!-- - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
+ - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
---
+
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -59,7 +59,6 @@ Here are some ideas to get you started:
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 <!--Github Stats-->
 
-<!--
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
@@ -69,7 +68,7 @@ Here are some ideas to get you started:
 
 
 
-<!--
+
 #### How to get in touch with me?
 <p left="center">
 <a href="https://twitter.com/anonymus_7">
@@ -85,4 +84,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
--->
+
