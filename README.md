@@ -7,7 +7,7 @@
 [![slideshare URL](https://img.shields.io/badge/social--badge?style=social&label=SlideShare&logo=slideshare)](https://www.slideshare.net/AbdullahMahi1)
 [![WordPres URL](https://img.shields.io/badge/social--badge?style=social&label=WordPress&logo=wordpress)](https://amahiwp.wordpress.com)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here! &nbsp;
 
 [//]: # ()
 [//]: # (I am a graduate of **Computer Science**.)
@@ -29,7 +29,7 @@ I find joy in exploring new technologies and love to travel, take photographs an
 `Aug 2018 - Oct 2021`
 <br>
 
-**WeDev** — Software Engineer Trainee <br>
+**WeDevs** — Software Engineer Trainee <br>
 `Feb 2021 - Jul 2021`
 <br><br>
 
