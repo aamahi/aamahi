@@ -19,7 +19,7 @@ As a frontend software engineer with over two years of experience. Currently, an
 
 I find joy in exploring new technologies and love to travel, take photographs and attend conferences, workshops, and seminars.
 
-### WORK EXPERIENCE
+### Work Experience
 
 **Selise Digital Platforms** — Software Engineer <br>
 `Oct 2021 - Present`
@@ -41,7 +41,7 @@ I find joy in exploring new technologies and love to travel, take photographs an
     </tr>
     <tr>
         <td>Framework & CMS</td>
-        <td>Next.js, React, Angular, Wordpress(Plugin Development), Laravel.</td>
+        <td>Next.js, React, Angular, Wordpress(Plugin Development), Laravel</td>
     </tr>
     <tr>
         <td>Databases & Storage</td>
@@ -49,7 +49,7 @@ I find joy in exploring new technologies and love to travel, take photographs an
     </tr>
     <tr>
         <td>Version Control</td>
-        <td>GIT with Smart GIT Flow, used with Github.</td>
+        <td>GIT with Smart GIT Flow, used with GitHub</td>
     </tr>
     <tr>
         <td>Cloud Technologies</td>
@@ -61,7 +61,7 @@ I find joy in exploring new technologies and love to travel, take photographs an
     </tr>
     <tr>
         <td>SCRUM/Agile</td>
-        <td>Practicing SCRUM methodology in my current organization.</td>
+        <td>Practicing SCRUM methodology in my current organization</td>
     </tr>
 
 </table>
