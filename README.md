@@ -73,5 +73,5 @@ I find joy in exploring new technologies and love to travel, take photographs an
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aamahi&show_icons=true&hide_border=true&include_all_commits=true&theme=swift" />
 
 [//]: # (<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aamahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift" />)
-[//]: # (<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamahi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=swift" />)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamahi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=swift" />
 </p>
