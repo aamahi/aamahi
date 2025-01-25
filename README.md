@@ -37,11 +37,11 @@ I find joy in exploring new technologies and love to travel, take photographs an
 <table>
     <tr>
         <td>Languages</td>
-        <td>JavaScript, TypeScript, PHP</td>
+        <td>C#, JavaScript, TypeScript, PHP</td>
     </tr>
     <tr>
         <td>Framework & CMS</td>
-        <td>Next.js, React, Angular, Wordpress(Plugin Development), Laravel</td>
+        <td>.Net, Next.js, React, Angular, Wordpress(Plugin Development), Laravel</td>
     </tr>
     <tr>
         <td>Databases & Storage</td>
